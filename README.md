@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ojasdeshpnde
 - 👀 I’m interested in Software Development Internships as well as any Computational Physics internships / research position
+- I am currently working at JPMC as a software enginner!
 - 🌱 I’m currently learning Computer Science and Physics at the Ohio State University (Double Major)
 - 📫 How to reach me ojas.a.deshpande@gmail.com
 
